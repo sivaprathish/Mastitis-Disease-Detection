@@ -7,4 +7,5 @@ Subclinical Mastitis: Subclinical mastitis is not visibly apparent but can be de
 ![image](https://github.com/sivaprathish/Mastitis-Disease-Detection/assets/108066641/b707af83-cb43-4657-b027-fa897419b3eb)
 
 ![image](https://github.com/sivaprathish/Mastitis-Disease-Detection/assets/108066641/7e4c2f90-0870-42f8-b773-6939701776f6)
-![image](https://github.com/sivaprathish/Mastitis-Disease-Detection/assets/108066641/274ae488-ca5e-4d37-806d-c781c1e444ec)
+![image](https://github.com/sivaprathish/Mastitis-Disease-Detection/assets/108066641/93b79cb2-4010-4ce6-906d-593a01acd9b1)
+
